@@ -1,0 +1,1 @@
+{"version":1,"defects":{"test::testCheckName":4,"test::testHey":4,"test::testCheck":4,"test::testCheckSurame":4,"test::testCheckPhone":3,"test::testCheckComment":3},"times":{"test::testCheckName":0.003,"test::testHey":0.003,"test::testCheck":0.003,"test::testCheckSurame":0,"test::testCheckPhone":0,"test::testCheckComment":0.001}}
